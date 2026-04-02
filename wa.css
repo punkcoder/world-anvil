@@ -198,6 +198,11 @@ dd {
     margin: 3px 0;
 }
 
+.wa-section .aloud {
+    border: 1px solid var(--color-text-primary);
+    padding: 5px;
+}
+
 /** --------------------------------------------
     Timelines
 --------------------------------------------- */
