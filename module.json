@@ -1,5 +1,5 @@
 {
-  "id": "world-anvil",
+  "id": "world-anvil-punkcoder",
   "title": "World Anvil Integration",
   "version": "#{VERSION}#",
   "description": "<p>A module to integrate <a href=\"https://worldanvil.com\" title=\"World Anvil\" target=\"_blank\">World Anvil</a> with Foundry Virtual Tabletop.</p>",
